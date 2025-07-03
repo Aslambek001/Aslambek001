@@ -12,36 +12,42 @@ Ik bouw graag schaalbare en praktische oplossingen, en ben altijd nieuwsgierig n
 
 ---
 
-👨‍💻 Stage-ervaring
+
+## 👨‍💻 Stage-ervaring
 Python Developer – ESEMTE, Antwerpen
 Februari 2025 – Juni 2025
 
-Als stagiair Python Developer bij ESEMTE heb ik meegewerkt aan de ontwikkeling van webapplicaties met Flask en PostgreSQL.
+Tijdens mijn stage bij ESEMTE werkte ik aan het stage-velo project, een webapplicatie voor het beheren van deelfietsen.
 
-Gebruikersregistratie en veilige login opgezet met Auth0.
+Ontwikkeling met Python, Flask en PostgreSQL.
 
-REST API’s ontworpen en gebouwd voor het beheren van 3D-modellen.
+Gebruikersregistratie, abonnementenbeheer en ritgeschiedenis geïmplementeerd.
 
-Bestanden upload en live 3D preview mogelijk gemaakt met Three.js.
+Meerdere functionaliteiten toegevoegd, zoals gebruikersprofielen, abonnementenbeheer, en automatische rapportage van ritgegevens.
 
-Docker gebruikt voor development en deployment.
+Beveiligde login en accountbeheer gerealiseerd.
 
-Ondersteuning geboden aan het team bij automatisering en databasebeheer.
+Samenwerking met een team en versiebeheer via GitHub.
 
 Resultaat:
 
-De applicatie is succesvol opgeleverd en wordt intern gebruikt.
+De applicatie is succesvol opgeleverd en wordt gebruikt als demo binnen het bedrijf.
 
-Mijn bijdrage heeft gezorgd voor efficiëntere workflows en betere gebruikerservaring.
+Mijn bijdrage heeft gezorgd voor een stabielere en gebruiksvriendelijkere applicatie.
 
 Skills geleerd:
 
-Auth0 integratie, werken met Docker, API design, teamwork in een professionele omgeving.
+Full-stack development met Flask
+
+Werken in een teamomgeving
+
+Database design en API’s
+
+Agile development en versiebeheer
 
 Reflectie:
 
-Tijdens mijn stage bij ESEMTE heb ik niet alleen mijn technische kennis vergroot, maar ook geleerd hoe
-belangrijk samenwerking, communicatie en security zijn binnen software development.
+“Deze stage bij ESEMTE was enorm leerzaam: ik heb niet alleen mijn Python- en Flask-skills verbeterd, maar ook echt geleerd samen te werken en praktijkervaring opgedaan in een professionele setting.”
 
 ## 💼 Projecten
 
