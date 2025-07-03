@@ -15,7 +15,7 @@ Ik bouw graag schaalbare en praktische oplossingen, en ben altijd nieuwsgierig n
 
 ## 👨‍💻 Stage-ervaring
 Python Developer – ESEMTE, Antwerpen
-Februari 2025 – Juni 2025
+April 2025 – Juni 2025
 
 Tijdens mijn stage bij ESEMTE werkte ik aan het stage-velo project, een webapplicatie voor het beheren van deelfietsen.
 ### [Velo-Antwerpen](https://github.com/christianmesinas/stage-velo.git)
