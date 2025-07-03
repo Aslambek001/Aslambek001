@@ -55,8 +55,9 @@ Ik bouw graag schaalbare en praktische oplossingen, en ben altijd nieuwsgierig n
 
 ## 📫 Contact
 
-- **E-mail:** aslambek.chamutaev@gmail.com
-- **LinkedIn:** [linkedin.com/in/aslambek-chamutaev](https://linkedin.com/in/aslambek-chamutaev)
+- **E-mail:** chamutaev.a@gmail.com
+- **LinkedIn:** linkedin.com/in/aslambek-chamutaev](https://linkedin.com/in/aslambek-chamutaev)](https://www.linkedin.com/in/aslambek-chamutaev-859366341/
+
 
 ---
 
