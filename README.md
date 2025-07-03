@@ -12,6 +12,37 @@ Ik bouw graag schaalbare en praktische oplossingen, en ben altijd nieuwsgierig n
 
 ---
 
+👨‍💻 Stage-ervaring
+Python Developer – ESEMTE, Antwerpen
+Februari 2025 – Juni 2025
+
+Als stagiair Python Developer bij ESEMTE heb ik meegewerkt aan de ontwikkeling van webapplicaties met Flask en PostgreSQL.
+
+Gebruikersregistratie en veilige login opgezet met Auth0.
+
+REST API’s ontworpen en gebouwd voor het beheren van 3D-modellen.
+
+Bestanden upload en live 3D preview mogelijk gemaakt met Three.js.
+
+Docker gebruikt voor development en deployment.
+
+Ondersteuning geboden aan het team bij automatisering en databasebeheer.
+
+Resultaat:
+
+De applicatie is succesvol opgeleverd en wordt intern gebruikt.
+
+Mijn bijdrage heeft gezorgd voor efficiëntere workflows en betere gebruikerservaring.
+
+Skills geleerd:
+
+Auth0 integratie, werken met Docker, API design, teamwork in een professionele omgeving.
+
+Reflectie:
+
+Tijdens mijn stage bij ESEMTE heb ik niet alleen mijn technische kennis vergroot, maar ook geleerd hoe
+belangrijk samenwerking, communicatie en security zijn binnen software development.
+
 ## 💼 Projecten
 
 ### [LuxAuto](https://github.com/roxvdp/LuxAuto)
